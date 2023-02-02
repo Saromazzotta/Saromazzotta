@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saromazzotta&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Saromazzotta/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saromazzotta&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saromazzotta&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 <!-- <a href="https://benton-michael.github.io/" target="_blank">My Portfolio Site<a/> -->
 
