@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" />
+<!-- <img align="left" alt="Python" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> -->
+<!-- <img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" /> -->
 
 <img align="left" alt="Flask" width="35" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" />
 <!-- <img align="left" alt="Django" width="37" height="-100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"/> -->
