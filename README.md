@@ -52,6 +52,17 @@ Here are some ideas to get you started:
 <img align="left" alt="Java" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" /> 
 
+<br>
+<br>
+ <p>
+  Skills: 
+  <br>
+     • Python | Java | JavaScript | HTML | CSS | MySQL | MongoDB | Git 
+  <br>
+     • jQuery | Flask | Node | Express | React 
+  <br>
+     • Frontend | Backend | Full-Stack | Restful APIs | OOP
+ </p>
 
 <!-- 
 < <img align="left" alt="Ruby" width="30 height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" /> -->
