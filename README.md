@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Saro, a full stack web developer. 
+### Hi there 👋 I'm Saro, a developer. 
 
 <!--
 **Saromazzotta/Saromazzotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
