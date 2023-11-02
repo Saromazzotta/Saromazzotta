@@ -57,11 +57,28 @@ Here are some ideas to get you started:
  <p>
   Skills: 
   <br>
-     • Python | Java | JavaScript | HTML | CSS | MySQL | MongoDB | Git 
   <br>
-     • jQuery | Flask | Node | Express | React 
+  Languages
   <br>
-     • Frontend | Backend | Full-Stack | Restful APIs | OOP
+     • Python | Java | JavaScript(ES6, Node.js) | HTML | CSS | MySQL | MongoDB | Git 
+  <br>
+  <br>
+  Frameworks/Libraries
+  <br>
+     • Flask | Spring Boot | React | React Query | React Hook Form | Express  
+  <br>
+  <br>
+  Databases
+  <br>
+     • MySQL | MongoDB | Mongoose 
+  <br>
+  <br>
+  Tools
+  <br>
+     • Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | AWS(EC2) | Git
+  <br>
+  <br>
+     • Frontend | Backend | Full-Stack 
  </p>
 
 <!-- 
