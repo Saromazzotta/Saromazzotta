@@ -78,7 +78,7 @@ Here are some ideas to get you started:
      • Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | AWS(EC2) | Git
   <br>
   <br>
-     • Frontend | Backend | Full-Stack 
+     • Email Developing | Frontend | Backend | Full-Stack 
  </p>
 
 <!-- 
