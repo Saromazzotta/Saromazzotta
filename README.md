@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <br>
   Frameworks/Libraries
   <br>
-     • Flask | Spring Boot | React | React Query | React Hook Form | Express  
+     • Flask | Django | Spring Boot | React | React Query | React Hook Form | Express  
   <br>
   <br>
   Databases
