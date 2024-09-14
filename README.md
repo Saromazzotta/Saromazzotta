@@ -74,10 +74,10 @@ Here are some ideas to get you started:
   <br>
   Tools
   <br>
-     • Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | AWS(EC2) | Git
+     • Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | Azure | Git
   <br>
   <br>
-     • Email Developing | Frontend | Backend | Full-Stack | Content Management Systems
+     • Frontend | Backend | Full-Stack
  </p>
 
 <!-- 
