@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <br>
   Languages
   <br>
-     • Python | Java | JavaScript(ES6, Node.js) | HTML | CSS | MySQL | MongoDB | Git 
+     • Golang | Python | Java | JavaScript(ES6, Node.js) | HTML | CSS | MySQL | MongoDB | Git 
   <br>
   <br>
   Frameworks/Libraries
@@ -69,12 +69,12 @@ Here are some ideas to get you started:
   <br>
   Databases
   <br>
-     • MySQL | MongoDB | Mongoose 
+     • PostgreSQL | MySQL | MongoDB | Mongoose 
   <br>
   <br>
   Tools
   <br>
-     • Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | Azure | Git
+     • Microsoft Azure | Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | Git | Docker
   <br>
   <br>
      • Frontend | Backend | Full-Stack
