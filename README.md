@@ -59,12 +59,12 @@ Here are some ideas to get you started:
   <br>
   Languages
   <br>
-     • Golang | Python | Java | JavaScript(ES6, Node.js) | HTML | CSS | MySQL | MongoDB | Git 
+     • Java | Golang | Python | JavaScript(ES6, Node.js) | HTML5 | CSS | SQL
   <br>
   <br>
   Frameworks/Libraries
   <br>
-     • Flask | Django | Spring Boot | React | React Query | React Hook Form | Express  
+     • Spring Boot | Django | Flask | React | React Query | React Hook Form | Express  
   <br>
   <br>
   Databases
