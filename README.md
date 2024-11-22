@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Saro, a software engineer. 
+### Hi there 👋 I'm Saro! 
 
 <!--
 **Saromazzotta/Saromazzotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,33 @@ Here are some ideas to get you started:
 <br> -->
 <!-- 🌱 I’m currently learning about JavaScript
 <br> -->
-<a href="https://www.linkedin.com/in/saromazzotta/" target="_blank">  My LinkedIn 
+
+
+<a href="https://www.linkedin.com/in/saromazzotta/" target="_blank">  Check Out My LinkedIn 
+ <p>
+  Languages
+  <br>
+     • Java | Golang | Python | JavaScript(ES6, Node.js) | HTML5 | CSS | SQL
+  <br>
+  <br>
+  Frameworks/Libraries
+  <br>
+     • Spring Boot | Django | Flask | React | React Query | React Hook Form | Express  
+  <br>
+  <br>
+  Databases
+  <br>
+     • PostgreSQL | MySQL | MongoDB | Mongoose 
+  <br>
+  <br>
+  Tools
+  <br>
+     • Microsoft Azure | Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | Git | Docker
+  <br>
+  <br>
+     • Frontend | Backend | Full-Stack
+ </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saromazzotta&hide=css&layout=compact&theme=chartreuse-dark)](https://github.com/Saromazzotta/github-readme-stats)
 
@@ -54,31 +80,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
- <p>
-  <br>
-  <br>
-  Languages
-  <br>
-     • Java | Golang | Python | JavaScript(ES6, Node.js) | HTML5 | CSS | SQL
-  <br>
-  <br>
-  Frameworks/Libraries
-  <br>
-     • Spring Boot | Django | Flask | React | React Query | React Hook Form | Express  
-  <br>
-  <br>
-  Databases
-  <br>
-     • PostgreSQL | MySQL | MongoDB | Mongoose 
-  <br>
-  <br>
-  Tools
-  <br>
-     • Microsoft Azure | Spring Tool Suite | Socket.io | Axios | Restful APIs | OOP | JSON | Postman | Git | Docker
-  <br>
-  <br>
-     • Frontend | Backend | Full-Stack
- </p>
+
 
 <!-- 
 < <img align="left" alt="Ruby" width="30 height="-120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" /> -->
