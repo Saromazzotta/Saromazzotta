@@ -1,8 +1,11 @@
 # 💫 About Me:
 I'm a self-taught Full-Stack Developer currently searching for a job. 
 
+## 🚀 What I'm up to:
+* 💻 Working on building spring boot applications with PostgreSQL
+* ⌨️ Building my own Arch Linux system to start a Home Lab
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saromazzotta) 
 
 # 💻 Tech Stack:
