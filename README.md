@@ -2,7 +2,8 @@
 I'm a self-taught Full-Stack Developer currently searching for a job. 
 
 ## 🚀 What I'm up to:
-* 💻 Working on building spring boot applications with PostgreSQL
+* 🧠 Learning backend development on Boot.dev -> [Boot.dev profile and stats](https://www.boot.dev/u/roots2121)
+* 💻 Building spring boot applications with PostgreSQL
 * ⌨️ Building my own Arch Linux system to start a Home Lab
 
 ## 🌐 Connect with me:
