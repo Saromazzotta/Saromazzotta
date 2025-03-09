@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught Full-Stack Developer currently searching for a job. 
+Hi! I'm a self-taught Full-Stack Developer. My primary tech stack includes Java Spring Boot, React.js, and PostgreSQL. I'm also versed in Golang, the MERN stack using MongoDB and Node.js, and Python with a Flask framework. When I'm not building web applications, I enjoy creating scripts with Python.
 
 ## 🚀 What I'm up to:
 * 🧠 Learning backend development on Boot.dev -> [Boot.dev profile and stats](https://www.boot.dev/u/roots2121)
